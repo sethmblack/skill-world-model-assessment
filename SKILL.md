@@ -4,7 +4,8 @@ description: Evaluate whether an AI system has the architectural components need
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5334
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
 - world-model-architecture-assessment
